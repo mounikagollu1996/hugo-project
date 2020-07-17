@@ -1,3 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "You Don't Know JS Yet: Get Started - 2nd Edition"
+theme = "ghostwriter-master"
